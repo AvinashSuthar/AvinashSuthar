@@ -1,7 +1,7 @@
  <a href="https://avinashsuthar.in/">
     <img
       alt="Avinash Suthar"
-      src="./assets/banner.jpg"
+      src="./banner.png"
       width="100%"
     />
   </a>
